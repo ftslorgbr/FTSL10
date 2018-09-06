@@ -8,7 +8,7 @@ excerpt: Márcio Júnior Vieira
 
 ### Palestra: Pentaho Business Intelligence & Analytics convergindo com Data Science, Big Data e Machine Learning
 
-Será apresentadas em geral a Plataforma Pentaho e as novidades da plataforma Pentaho 8.1 contextualizando as novidades que podem ser usadas por Cientistas de dados, acompanhando as tendências e evoluções mundiais de analise de dados com Big Data, Analytics e Machine Learning.
+Será apresentada em geral a Plataforma Pentaho e as novidades da plataforma Pentaho 8.1 contextualizando as novidades que podem ser usadas por Cientistas de dados, acompanhando as tendências e evoluções mundiais de analise de dados com Big Data, Analytics e Machine Learning.
 
 #### Currículo
 
