@@ -19,6 +19,10 @@ Será apresentado o funcionamento do Bug Tracking System e a sua importância pa
 
 O time Debian Security Tools é resultado da fusão dos times "forensics-devel" e "pkg-security". Seu foco principal é a manutenção de pacotes relacionados a segurança computacional como os utilizados em testes de intrusão e forense computacional. O trabalho do time servindo de base para diversas distribuições GNU/Linux com foco em segurança como Kali Linux. Apresentaremos um pouco da história e as atividades desenvolvidas.
 
+### Palestra: Debian: um universo em construção
+
+Você quer contribuir com um projeto de _software_ livre e não sabe por onde começar? Apresentaremos as diversas formas de colaborar na construção do "Sistema Operacional Universal". Dentro do projeto Debian existem oportunidades para qualquer força de trabalho e você verá porque contribuir é bom para você também. 
+
 #### Currículo
 
 Giovani Augusto Ferreira é Professor, possui graduação em Tecnologia em Redes de Computadores pelo CESEP/FEM (2009). Ativista do Software Livre, é Desenvolvedor Debian participando principalmente do time Debian Security Tools e auxilia na organização de eventos Debian no Brasil.
