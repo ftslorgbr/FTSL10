@@ -6,9 +6,9 @@ excerpt: Fábio Leandro Lapuinka
 ---
 <p><img src="{{ site.baseurl }}/convidados/{{ page.image }}.jpg" alt="Fábio Leandro Lapuinka" height="300" width="300"></p>
 
-### Palestra: OpenStreet Maps, uma alternativa ao Google Maps
+### Palestra: OpenStreetMap, uma alternativa ao Google Maps
 
-Conheça o projeto Open Street Maps, uma alternativa Livre ao Google Maps. Construa aplicações com GeoLocalização Online e OffLine sem pagar nada por chamadas de API.
+Conheça o projeto OpenStreetMap, uma alternativa Livre ao Google Maps. Construa aplicações com GeoLocalização Online e OffLine sem pagar nada por chamadas de API.
 
 #### Currículo
 
