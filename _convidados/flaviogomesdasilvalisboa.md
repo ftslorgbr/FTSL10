@@ -6,6 +6,10 @@ excerpt: Flávio Gomes da Silva Lisboa
 ---
 <p><img src="{{ site.baseurl }}/convidados/{{ page.image }}.jpg" alt="Flávio Gomes da Silva Lisboa" height="300" width="300"/></p>
 
+### Palestra: Do PHP ao Zend Framework: Domine as boas práticas
+
+Todo _software_ passa por algum tipo de manutenção ao longo de sua vida. Por isso, é bom ter uma ferramenta para nos ajudar a criar programas fáceis de manter. É o que Zend Framework faz para a linguagem de programação PHP, usando o paradigma da Orientação a Objetos. Zend Framework 3 é um framework de código aberto para o desenvolvimento de aplicações e serviços Web com PHP, que segue uma filosofia de componentes use quando quiser. Nesta palestra mostraremos qual é o caminho a ser seguido para partir de simples scripts PHP para complexas aplicações orientadas a objeto com (re)uso de componentes.
+
 ### Palestra: Ensino de programação com Scratch e AppInventor
 
 Scratch e AppInventor são projetos de ensino de programação mantidos pelo laboratório de mídias do Instituto de Tecnologia de Massachussets - MIT. Ambos são disponibilizados gratuitamente e ajudam os jovens a pensar de forma criativa, a raciocinar sistematicamente e a trabalhar colaborativamente — competências essenciais à vida no século XXI. Jovens, pais e professores estão convidados a conhecer esses projetos e como utilizá-los como ferramenta para apoio ao ensino.
