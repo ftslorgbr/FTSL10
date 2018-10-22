@@ -35,6 +35,6 @@ teve a participação de 298 pessoas de 44 países. Esta será a segunda vez que
 Brasil sediará uma DebConf. A primeira vez foi a
 [DebConf4](https://debconf4.debconf.org) em 2004 em Porto Alegre.
 
-![DebConf 2018]({{ site.baseurl }}/images/debconf.jpg)
+![DebConf2018]({{ site.baseurl }}/images/debconf.jpg)
 
 <a href="{{ site.baseurl }}/index.html">Voltar</a>
