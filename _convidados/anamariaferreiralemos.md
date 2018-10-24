@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Ana Ferreira Lemes
-image: anaferreiralemes
-excerpt: Ana Ferreira Lemes
+title: Ana Maria Ferreira Lemos
+image: anamariaferreiralemos
+excerpt: Ana Maria Ferreira Lemos
 ---
-<p><img src="{{ site.baseurl }}/convidados/{{ page.image }}.jpg" alt="Ana Ferreira Lemes" height="300" width="300"/></p>
+<p><img src="{{ site.baseurl }}/convidados/{{ page.image }}.jpg" alt="Ana Maria Ferreira Lemos" height="300" width="300"/></p>
 
 ### Palestra: A inclusão das mulheres na área de TI
 
@@ -12,6 +12,6 @@ Apresento um levantamento de fatores sociais, psicológicos e culturais que se m
 
 #### Currículo
 
-Meu nome é Ana Maria Ferreira Lemes. Sou graduada em matemática, pela UFMT. Tenho especialização em Educação, Diversidade e Inclusão Social pela UCDB. Aluna especial de mestrado da UNIFESP e do grupo de pesquisa GHEMAT em história da educação matemática. Sou professora eventual pelo Estado de são Paulo, dando aulas em duas escolas do município de são Paulo.
+Meu nome é Ana Maria Ferreira Lemos. Sou graduada em matemática, pela UFMT. Tenho especialização em Educação, Diversidade e Inclusão Social pela UCDB. Aluna especial de mestrado da UNIFESP e do grupo de pesquisa GHEMAT em história da educação matemática. Sou professora eventual pelo Estado de são Paulo, dando aulas em duas escolas do município de são Paulo.
 
 <a href="{{ site.baseurl }}/index.html">Voltar</a>
