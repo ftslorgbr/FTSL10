@@ -12,6 +12,6 @@ Análises de Interação Fluido-Estrutura (FSI) constituem um tópico de grande 
 
 #### Currículo
 
-Formado em engenharia Industrial Mecânica pela UTFPR (2013). Formação complementada por um ano de intercâmbio acadêmico no Insa de Lyon, na França. Trabalho de conclusão de curso em Injeção de termoplásticos. Faz mestrado em engenharia mecânica, na área de mecânica dos sólidos (UTFPR). Dois anos de experiência em empresa de projetos portuários. Atualmente trabalha em empresa fabricante de turbinas í  vapor, com desenvolvimento estrutural e termodinâmico de turbinas.
+Formado em engenharia Industrial Mecânica pela UTFPR (2013). Formação complementada por um ano de intercâmbio acadêmico no Insa de Lyon, na França. Trabalho de conclusão de curso em Injeção de termoplásticos. Faz mestrado em engenharia mecânica, na área de mecânica dos sólidos (UTFPR). Dois anos de experiência em empresa de projetos portuários. Atualmente trabalha em empresa fabricante de turbinas a vapor, com desenvolvimento estrutural e termodinâmico de turbinas.
 
 <a href="{{ site.baseurl }}/index.html">Voltar</a>
